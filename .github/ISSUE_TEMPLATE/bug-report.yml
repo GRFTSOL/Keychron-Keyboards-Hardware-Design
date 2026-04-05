@@ -1,0 +1,52 @@
+name: Bug Report
+description: Report a problem with a design file (corrupted, incorrect dimensions, missing component)
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: series
+    attributes:
+      label: Product Series
+      options:
+        - Q Series
+        - Q Pro Series
+        - Q HE Series
+        - K Pro Series
+        - K Max Series
+        - K HE Series
+        - V Max Series
+        - P HE Series
+        - L Series
+        - Mice
+        - Keycap Profiles
+    validations:
+      required: true
+
+  - type: input
+    id: model
+    attributes:
+      label: Model
+      placeholder: "e.g. Q1, K8 Max, V2 Max"
+    validations:
+      required: true
+
+  - type: input
+    id: file
+    attributes:
+      label: Affected File
+      placeholder: "e.g. Q1-Top-Case.stp"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What is wrong with the file? Include dimensions, screenshots, or comparison images if possible.
+    validations:
+      required: true
+
+  - type: input
+    id: software
+    attributes:
+      label: CAD Software Used
+      placeholder: "e.g. FreeCAD 0.21, Fusion 360, SolidWorks 2024"

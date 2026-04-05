@@ -1,0 +1,32 @@
+name: File Request
+description: Request a missing file, layout variant, or new model upload
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: request-type
+    attributes:
+      label: Request Type
+      options:
+        - Missing file for existing model
+        - ISO layout variant
+        - New model upload
+        - Additional keycap profile
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: model
+    attributes:
+      label: Model
+      placeholder: "e.g. Q1 Pro, K8 Max"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What file or variant are you looking for?
+    validations:
+      required: true

@@ -32,7 +32,7 @@ If you're new, begin with one of these paths:
   Open the [Repository Inventory](docs/repo-inventory.md) generated from the repo itself.
 
 - **Contribute fixes or improvements**  
-  Read [Contributing](CONTRIBUTING) for workflow, file standards, and submission rules.
+  Read [Contributing](CONTRIBUTING.md) for workflow, file standards, and submission rules.
 
 - **Understand the license before building**  
   Read the [License FAQ](docs/license-faq.md).
