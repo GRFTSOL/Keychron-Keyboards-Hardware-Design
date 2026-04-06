@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron K4 HE](https://www.keychron.com/products/keychron-k4-he-wireless-magnetic-switch-custom-keyboard)
 
+![Keychron K4 HE](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/K4_HE1.jpg)
+
 ## Specifications
 
 | Spec | Detail |
