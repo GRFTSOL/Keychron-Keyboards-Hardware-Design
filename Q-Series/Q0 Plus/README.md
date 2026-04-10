@@ -2,6 +2,8 @@
 
 > **Product page:** [Keychron Q0 Plus QMK Custom Number Pad](https://www.keychron.com/products/keychron-q0-plus-qmk-custom-number-pad)
 
+![Keychron Q0 Plus](https://cdn.shopify.com/s/files/1/0059/0630/1017/t/5/assets/keychronq0pluscustommechanicalnumberpad1-1674024221291.jpg?v=1674024223)
+
 A full-size number pad custom mechanical keyboard with all-metal body and programmable layout.
 
 ## Overview

@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron Q10 Pro](https://www.keychron.com/products/keychron-q10-pro-alice-layout-qmk-via-wireless-custom-mechanical-keyboard)
 
+![Keychron Q10 Pro](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Q10-Pro-9.jpg?v=1693189540)
+
 ## Specifications
 
 | Spec | Detail |

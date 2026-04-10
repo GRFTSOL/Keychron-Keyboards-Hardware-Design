@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron Q12](https://www.keychron.com/products/keychron-q12-qmk-custom-mechanical-keyboard)
 
+![Keychron Q12](https://cdn.shopify.com/s/files/1/0059/0630/1017/t/5/assets/keychronq12qmkcustommechanicalkeyboard1-1676101752350.jpg?v=1676101755)
+
 ## Specifications
 
 | Spec | Detail |

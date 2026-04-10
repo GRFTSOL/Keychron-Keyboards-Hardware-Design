@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron Q1](https://www.keychron.com/products/keychron-q1)
 
+![Keychron Q1](https://cdn.shopify.com/s/files/1/0059/0630/1017/t/5/assets/keychronq1v2custommechanicalkeyboard15-1658373808819.jpg?v=1658373894)
+
 ## Specifications
 
 | Spec | Detail |

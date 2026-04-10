@@ -4,6 +4,8 @@
 
 **Product page:** [Lemokey P1 HE](https://www.keychron.com/products/lemokey-p1-he-wireless-magnetic-switch-custom-gaming-keyboard)
 
+![Lemokey P1 HE](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Lemokey-P1-HE-Wireless-Magnetic-Switch-Custom-Gaming-Keyboard---Non-Shine-Through-Keycap-Version.jpg?v=1736131409)
+
 ## Specifications
 
 | Spec | Detail |

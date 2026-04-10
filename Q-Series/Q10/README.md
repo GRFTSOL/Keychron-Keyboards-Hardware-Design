@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron Q10](https://www.keychron.com/products/keychron-q10-alice-layout-qmk-custom-mechanical-keyboard)
 
+![Keychron Q10](https://cdn.shopify.com/s/files/1/0059/0630/1017/t/5/assets/keychron-q10-custom-mechanical-keyboard-1664000588262.jpg?v=1664000591)
+
 ## Specifications
 
 | Spec | Detail |

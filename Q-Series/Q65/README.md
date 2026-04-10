@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron Q65](https://www.keychron.com/products/keychron-q65-qmk-custom-mechanical-keyboard)
 
+![Keychron Q65](https://cdn.shopify.com/s/files/1/0059/0630/1017/t/5/assets/keychronq65qmkviacustommechanicalkeyboard4-1668745395764.jpg?v=1668745399)
+
 ## Specifications
 
 | Spec | Detail |

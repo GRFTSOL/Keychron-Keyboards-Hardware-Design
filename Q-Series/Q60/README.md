@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron Q60](https://www.keychron.com/products/keychron-q60-qmk-custom-mechanical-keyboard)
 
+![Keychron Q60](https://cdn.shopify.com/s/files/1/0059/0630/1017/t/5/assets/keychron-q60-qmk-via-custom-mechanical-keyboard-60-layout-1669173728813.jpg?v=1669173732)
+
 ## Specifications
 
 | Spec | Detail |

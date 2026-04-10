@@ -4,6 +4,8 @@
 
 **Product page:** [Keychron Q13 Pro](https://www.keychron.com/products/keychron-q13-pro-alice-layout-qmk-via-wireless-custom-mechanical-keyboard)
 
+![Keychron Q13 Pro](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Q13-Pro-3.jpg?v=1694157107)
+
 ## Specifications
 
 | Spec | Detail |
