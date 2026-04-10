@@ -2,6 +2,10 @@
 
 > Ultra 8K full-size Q-series plate files for the Q6 Ultra 8K, with both US and UK layout drawings.
 
+**Product page:** [Keychron Q6 Ultra 8K](https://www.keychron.com/products/keychron-q6-ultra-8k-wireless-custom-mechanical-keyboard)
+
+![Q6 Ultra 8K](https://www.keychron.com/cdn/shop/files/Keychron_Q6_Ultra_8K_Wireless_Custom_Mechanical_Keyboard-2_cf3810f0-86ac-4544-aad2-6dfe1a0353c5.jpg?v=1764227295)
+
 ## Included Files
 
 | File | Description |
