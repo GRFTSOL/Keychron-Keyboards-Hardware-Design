@@ -155,7 +155,6 @@ See the [LICENSE](LICENSE) file for full terms.
 ## Links
 
 - [Keychron Website](https://www.keychron.com)
-- [Open Source Design Center](https://www.keychron.com/collections/keychron-open-source)
 - [Keychron Discord Community](https://discord.com/invite/HAYbRrTsjN)
 - [Keychron Firmware (QMK, main branch)](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron)
 - [Keychron Firmware (Bluetooth boards)](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron)
