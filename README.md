@@ -77,7 +77,7 @@ If you're new, begin with one of these paths:
 | **P HE Series** | Hall Effect | P1 HE | Case, Plate, Full Model, Stabilizer, Keycap |
 | **Mouse Series** | Mouse | M1–M7, G1, G2 (11 models) | Shell, Full Model |
 
-**92 device models. 700+ design files. Source-available. Accessory-friendly.**
+**92 device models. 734+ design files. Source-available. Accessory-friendly.**
 ![Keychron keyboards structure design](docs/assets/keychron-keyboards-structures.webp)
 
 ## Directory Structure
