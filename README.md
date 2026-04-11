@@ -161,6 +161,7 @@ See the [LICENSE](LICENSE) file for full terms.
 - [Keychron Firmware (2.4 GHz wireless boards)](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron)
 - [Keychron Firmware (Hall Effect boards)](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron)
 - [Keychron Firmware (ZMK)](https://github.com/Keychron/zmk)
+- [Open source gaming mouse firmware (ZGM）](https://zgm.gg/)
 
 ---
 
