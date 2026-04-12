@@ -2,7 +2,7 @@
 
 Generated from the current filesystem using `scripts/repo_inventory.py`.
 
-- Total model directories: **108**
+- Total model directories: **114**
 - Total data files across model directories: **734**
 
 ## Series Summary
@@ -25,6 +25,7 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 | C-Pro-8K-Series | 3 | 10 |
 | K-QMK-Series | 1 | 7 |
 | Q-HE-8K-Series | 6 | 0 |
+| V-Ultra-8K-Series | 6 | 0 |
 
 ## Per-Model Manifests
 
@@ -780,6 +781,48 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 ### Q-HE-8K-Series / Q6 HE 8K
 
 - Path: `Q-HE-8K-Series/Q6 HE 8K`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### V-Ultra-8K-Series / V0 Ultra 8K
+
+- Path: `V-Ultra-8K-Series/V0 Ultra 8K`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### V-Ultra-8K-Series / V1 Ultra 8K
+
+- Path: `V-Ultra-8K-Series/V1 Ultra 8K`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### V-Ultra-8K-Series / V10 Ultra 8K
+
+- Path: `V-Ultra-8K-Series/V10 Ultra 8K`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### V-Ultra-8K-Series / V3 Ultra 8K
+
+- Path: `V-Ultra-8K-Series/V3 Ultra 8K`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### V-Ultra-8K-Series / V5 Ultra 8K
+
+- Path: `V-Ultra-8K-Series/V5 Ultra 8K`
+- Data files: 0
+- README present: yes
+- Extensions: `.md` x1
+
+### V-Ultra-8K-Series / V6 Ultra 8K
+
+- Path: `V-Ultra-8K-Series/V6 Ultra 8K`
 - Data files: 0
 - README present: yes
 - Extensions: `.md` x1
