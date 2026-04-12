@@ -4,7 +4,7 @@
 
 **Product page:** [Keychron Q6 Max](https://www.keychron.com/products/keychron-q6-max-qmk-via-wireless-custom-mechanical-keyboard)
 
-![Q6 Max](https://www.keychron.com/cdn/shop/files/Q6-Max-Carbon-Black.jpg?v=1753252758)
+![Q6 Max](https://www.keychron.com/cdn/shop/files/Q6-Max-Iconic-Features.jpg?crop=center&height=1200&v=1753252758&width=1200)
 
 ## Included Files
 

@@ -4,7 +4,7 @@
 
 **Product page:** [Keychron K10 Max](https://www.keychron.com/products/keychron-k10-max-qmk-wireless-mechanical-keyboard)
 
-![K10 Max](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/K10-Max-1.jpg?v=1722492751)
+![K10 Max](https://www.keychron.com/cdn/shop/files/K10-Max-Iconic-Features.jpg?crop=center&height=1200&v=1760175342&width=1200)
 
 ## Specifications
 

@@ -4,7 +4,7 @@
 
 **Product page:** [Keychron K8 Max](https://www.keychron.com/products/keychron-k8-max-qmk-wireless-mechanical-keyboard)
 
-![K8 Max](https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron_K8_Max_Wireless_Mechanical_Keyboard.jpg?v=1722679778)
+![K8 Max](https://www.keychron.com/cdn/shop/files/K8-Max-Iconic-Features.jpg?crop=center&height=1200&v=1760175342&width=1200)
 
 ## Specifications
 
