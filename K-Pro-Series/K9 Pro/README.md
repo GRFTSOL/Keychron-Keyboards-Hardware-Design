@@ -29,6 +29,20 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download Link |
+|---|---|
+| `K9-Pro-Keycap.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K9%20Pro/K9-Pro-Keycap.stp |
+| `k9-Pro-Stabilizer.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K9%20Pro/k9-Pro-Stabilizer.stp |
+| `K9-Pro-Top-And-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K9%20Pro/K9-Pro-Top-And-Bottom-Case.stp |
+| `K9-Pro-US-Full-Model-20241128.stp.zip` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K9%20Pro/K9-Pro-US-Full-Model-20241128.stp.zip |
+| `K9-Pro-US-Top-Case-20230427.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K9%20Pro/K9-Pro-US-Top-Case-20230427.dwg |
+| `K9-Pro-US-Top-Case.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K9%20Pro/K9-Pro-US-Top-Case.pdf |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

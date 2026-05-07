@@ -29,6 +29,24 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download Link |
+|---|---|
+| `K17-Pro-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K17%20Pro/K17-Pro-Bottom-Case.stp |
+| `K17-Pro-Keycap.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K17%20Pro/K17-Pro-Keycap.stp |
+| `K17-Pro-Knob.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K17%20Pro/K17-Pro-Knob.stp |
+| `K17-Pro-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K17%20Pro/K17-Pro-Top-Case.stp |
+| `k17-Pro-US-Full-Model-20241113.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K17%20Pro/k17-Pro-US-Full-Model-20241113.stp |
+| `K17-Pro-US-Knob-Version-Aluminum-Plate-20240730.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K17%20Pro/K17-Pro-US-Knob-Version-Aluminum-Plate-20240730.dwg |
+| `K17-Pro-US-Knob-Version-Aluminum-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K17%20Pro/K17-Pro-US-Knob-Version-Aluminum-Plate.pdf |
+| `Stabilizer-24mm-mini-3D.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K17%20Pro/Stabilizer-24mm-mini-3D.stp |
+| `Stabilizer-25mm-mini-3D.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K17%20Pro/Stabilizer-25mm-mini-3D.stp |
+| `Stabilizer-101mm-mini-3D.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K17%20Pro/Stabilizer-101mm-mini-3D.stp |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

@@ -28,6 +28,23 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download Link |
+|---|---|
+| `Q12-ANSI-Plate-File.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q12/Q12-ANSI-Plate-File.pdf |
+| `Q12-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q12/Q12-Bottom-Case.stp |
+| `Q12-ISO-Plate-File.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q12/Q12-ISO-Plate-File.pdf |
+| `Q12-Knob.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q12/Q12-Knob.stp |
+| `Q12-Plate-File.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q12/Q12-Plate-File.dxf |
+| `Q12-Top-Case-Knob.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q12/Q12-Top-Case-Knob.stp |
+| `Q12-US-Full-Model-Knob-20221213.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q12/Q12-US-Full-Model-Knob-20221213.stp |
+| `Stabilizer-2.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q12/Stabilizer-2.25u.stp |
+| `Stabilizer-6.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q12/Stabilizer-6.25u.stp |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

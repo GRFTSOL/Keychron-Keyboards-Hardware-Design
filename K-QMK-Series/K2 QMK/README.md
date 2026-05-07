@@ -18,6 +18,24 @@
 | `Stabilizer-2.25u.stp` | 2.25u stabilizer model |
 | `stabilizer-6.25u.stp` | 6.25u stabilizer model |
 
+
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download Link |
+|---|---|
+| `K2-QMK_US_Bottom_Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K2%20QMK/K2-QMK_US_Bottom_Case.stp |
+| `K2-QMK_US_Keycap.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K2%20QMK/K2-QMK_US_Keycap.stp |
+| `K2-QMK-US-Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K2%20QMK/K2-QMK-US-Plate.dwg |
+| `K2-QMK-US-Plate.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K2%20QMK/K2-QMK-US-Plate.dxf |
+| `K2-QMK-US-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K2%20QMK/K2-QMK-US-Plate.pdf |
+| `K2X_ABS_Frame_US_Full_Model_20260414.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K2%20QMK/K2X_ABS_Frame_US_Full_Model_20260414.stp |
+| `K2X_ABS_With_Aluminum_Frame_US_Full_Model_20260414.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K2%20QMK/K2X_ABS_With_Aluminum_Frame_US_Full_Model_20260414.stp |
+| `K2X_US_Cherry_Keycap.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K2%20QMK/K2X_US_Cherry_Keycap.stp |
+| `Stabilizer-2.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K2%20QMK/Stabilizer-2.25u.stp |
+| `stabilizer-6.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K2%20QMK/stabilizer-6.25u.stp |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

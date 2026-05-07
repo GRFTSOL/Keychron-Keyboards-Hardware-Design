@@ -34,6 +34,23 @@
 | `Lemokey-P1-HE-Stabilizers-*.stp` | Stabilizer models |
 | `Lemokey-P1-HE-Cherry-*-Keycaps-*.stp.zip` | Cherry-profile keycap sets (shine-through and non-shine-through) |
 
+
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download Link |
+|---|---|
+| `Lemokey-P1-HE-Bottom-Case-20250108.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/P-HE-Series/P1%20HE/Lemokey-P1-HE-Bottom-Case-20250108.stp |
+| `Lemokey-P1-HE-Cherry-Non-Shine-Through-Keycaps-20250110.stp.zip` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/P-HE-Series/P1%20HE/Lemokey-P1-HE-Cherry-Non-Shine-Through-Keycaps-20250110.stp.zip |
+| `Lemokey-P1-HE-Cherry-Shine-Through-Keycaps-20250115.stp.zip` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/P-HE-Series/P1%20HE/Lemokey-P1-HE-Cherry-Shine-Through-Keycaps-20250115.stp.zip |
+| `Lemokey-P1-HE-Knob-20250108.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/P-HE-Series/P1%20HE/Lemokey-P1-HE-Knob-20250108.stp |
+| `Lemokey-P1-HE-Stabilizers-20250108.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/P-HE-Series/P1%20HE/Lemokey-P1-HE-Stabilizers-20250108.stp |
+| `Lemokey-P1-HE-Top-Case-20250108.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/P-HE-Series/P1%20HE/Lemokey-P1-HE-Top-Case-20250108.stp |
+| `Lemokey-P1-HE-US-Full-Model-20241222.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/P-HE-Series/P1%20HE/Lemokey-P1-HE-US-Full-Model-20241222.stp |
+| `Lemokey-P1-HE-US-Plate-20241221.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/P-HE-Series/P1%20HE/Lemokey-P1-HE-US-Plate-20241221.dxf |
+| `Lemokey-P1-HE-US-Plate-20241221.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/P-HE-Series/P1%20HE/Lemokey-P1-HE-US-Plate-20241221.pdf |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

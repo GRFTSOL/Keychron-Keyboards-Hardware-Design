@@ -29,6 +29,20 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download Link |
+|---|---|
+| `K6-Pro-US-And-ISO-Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K6%20Pro/K6-Pro-US-And-ISO-Plate.dwg |
+| `K6-Pro-US-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K6%20Pro/K6-Pro-US-Bottom-Case.stp |
+| `K6-Pro-US-Full-Model-20241206.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K6%20Pro/K6-Pro-US-Full-Model-20241206.stp |
+| `K6-Pro-US-OSA-Keycap.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K6%20Pro/K6-Pro-US-OSA-Keycap.stp |
+| `K6-Pro-US-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K6%20Pro/K6-Pro-US-Plate.pdf |
+| `K6-Pro-US-Stabilizer.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K6%20Pro/K6-Pro-US-Stabilizer.stp |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

@@ -32,6 +32,18 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download Link |
+|---|---|
+| `Q6-HE-ISO-Full-Model-20241114.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q6%20HE/Q6-HE-ISO-Full-Model-20241114.stp |
+| `Q6-HE-US-Full-Model-20240725.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q6%20HE/Q6-HE-US-Full-Model-20240725.stp |
+| `Q6-HE-US-Plate-File.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q6%20HE/Q6-HE-US-Plate-File.dwg |
+| `Q6-HE-US-Plate-File.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-HE-Series/Q6%20HE/Q6-HE-US-Plate-File.pdf |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

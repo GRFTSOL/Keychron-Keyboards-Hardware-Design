@@ -21,6 +21,19 @@
 | Knob | Yes |
 | Firmware | QMK / VIA |
 
+
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download Link |
+|---|---|
+| `Q10_Max_Bottom_Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q10%20Max/Q10_Max_Bottom_Case.stp |
+| `Q10_Max_US_KSA_Full_Model_20260421.stp.zip` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q10%20Max/Q10_Max_US_KSA_Full_Model_20260421.stp.zip |
+| `Q10_Max_US_PCB_20230815.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q10%20Max/Q10_Max_US_PCB_20230815.dwg |
+| `Q10_Max_US_Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q10%20Max/Q10_Max_US_Plate.dwg |
+| `Q10_Max_US_Top_Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Max-Series/Q10%20Max/Q10_Max_US_Top_Case.stp |
+
 ## Links
 
 - [Series Overview](../README.md)

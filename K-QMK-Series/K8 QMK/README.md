@@ -31,6 +31,20 @@ CAD files for this model have not been added to this repository yet. This folder
 | `dxf` | Manufacturing-ready 2D geometry when available |
 | `pdf` | Reference drawings and dimension sheets |
 
+
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download Link |
+|---|---|
+| `K8X_US_Full_Model-20241209.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K8%20QMK/K8X_US_Full_Model-20241209.stp |
+| `K8X-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K8%20QMK/K8X-Bottom-Case.stp |
+| `K8X-US-Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K8%20QMK/K8X-US-Plate.dwg |
+| `K8X-US-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K8%20QMK/K8X-US-Plate.pdf |
+| `K8X-US-Plate.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K8%20QMK/K8X-US-Plate.stp |
+| `K8X-US-Top Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-QMK-Series/K8%20QMK/K8X-US-Top%20Case.stp |
+
 ## Links
 
 - [Series Overview](../README.md)

@@ -29,6 +29,29 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download Link |
+|---|---|
+| `k7-Max-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K7%20Max/k7-Max-Bottom-Case.stp |
+| `K7-Max-Keycap.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K7%20Max/K7-Max-Keycap.stp |
+| `k7-Max-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K7%20Max/k7-Max-Top-Case.stp |
+| `K7-Max-UK-Aluminum-Plate-20240924.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K7%20Max/K7-Max-UK-Aluminum-Plate-20240924.dwg |
+| `K7-Max-UK-Aluminum-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K7%20Max/K7-Max-UK-Aluminum-Plate.pdf |
+| `K7-Max-UK-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K7%20Max/K7-Max-UK-Bottom-Case.stp |
+| `K7-Max-UK-Full-Model-20231226.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K7%20Max/K7-Max-UK-Full-Model-20231226.stp |
+| `K7-Max-UK-Keycap.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K7%20Max/K7-Max-UK-Keycap.stp |
+| `K7-Max-UK-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K7%20Max/K7-Max-UK-Top-Case.stp |
+| `K7-Max-US-Aluminum-Plate-20240924.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K7%20Max/K7-Max-US-Aluminum-Plate-20240924.dwg |
+| `K7-Max-US-Aluminum-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K7%20Max/K7-Max-US-Aluminum-Plate.pdf |
+| `K7-Max-US-Full-Model-20231226.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K7%20Max/K7-Max-US-Full-Model-20231226.stp |
+| `Stabilizer-24mm-mini-3D.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K7%20Max/Stabilizer-24mm-mini-3D.stp |
+| `Stabilizer-25mm-mini-3D.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K7%20Max/Stabilizer-25mm-mini-3D.stp |
+| `Stabilizer-101mm-mini-3D.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Max-Series/K7%20Max/Stabilizer-101mm-mini-3D.stp |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

@@ -18,6 +18,18 @@
 - This folder currently contains plate files only.
 - No enclosure or full-model STEP files are currently included in this folder.
 
+
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download Link |
+|---|---|
+| `Q6-Ultra-8K-UK-Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Ultra-8K-Series/Q6%20Ultra%208k/Q6-Ultra-8K-UK-Plate.dwg |
+| `Q6-Ultra-8K-UK-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Ultra-8K-Series/Q6%20Ultra%208k/Q6-Ultra-8K-UK-Plate.pdf |
+| `Q6-Ultra-8K-US-Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Ultra-8K-Series/Q6%20Ultra%208k/Q6-Ultra-8K-US-Plate.dwg |
+| `Q6-Ultra-8K-US-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Ultra-8K-Series/Q6%20Ultra%208k/Q6-Ultra-8K-US-Plate.pdf |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

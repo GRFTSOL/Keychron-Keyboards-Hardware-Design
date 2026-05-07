@@ -29,6 +29,25 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download Link |
+|---|---|
+| `V3-Max-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V3%20Max/V3-Max-Bottom-Case.stp |
+| `V3-Max-Knob.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V3%20Max/V3-Max-Knob.stp |
+| `V3-Max-Stabilizer.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V3%20Max/V3-Max-Stabilizer.stp |
+| `V3-Max-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V3%20Max/V3-Max-Top-Case.stp |
+| `V3-Max-UK-Full-Model-20240311.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V3%20Max/V3-Max-UK-Full-Model-20240311.stp |
+| `V3-Max-UK-Knob-Version-Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V3%20Max/V3-Max-UK-Knob-Version-Plate.dwg |
+| `V3-Max-UK-Knob-Version-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V3%20Max/V3-Max-UK-Knob-Version-Plate.pdf |
+| `V3-Max-US-Full-Model-20240311.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V3%20Max/V3-Max-US-Full-Model-20240311.stp |
+| `V3-Max-US-Knob-Version-Plate.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V3%20Max/V3-Max-US-Knob-Version-Plate.dwg |
+| `V3-Max-US-Knob-Version-Plate.dxf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V3%20Max/V3-Max-US-Knob-Version-Plate.dxf |
+| `V3-Max-US-Knob-Version-Plate.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/V-Max-Series/V3%20Max/V3-Max-US-Knob-Version-Plate.pdf |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

@@ -29,6 +29,24 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download Link |
+|---|---|
+| `Q1-ANSI-Plate-Model.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q1/Q1-ANSI-Plate-Model.pdf |
+| `Q1-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q1/Q1-Bottom-Case.stp |
+| `Q1-ISO-Plate-Model.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q1/Q1-ISO-Plate-Model.pdf |
+| `Q1-Knob.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q1/Q1-Knob.stp |
+| `Q1-Top-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q1/Q1-Top-Case.stp |
+| `Q1-UK-Aluminum-Plate-20210823.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q1/Q1-UK-Aluminum-Plate-20210823.dwg |
+| `Q1-US-Aluminum-Plate-20210823.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q1/Q1-US-Aluminum-Plate-20210823.dwg |
+| `Q1-V2-Full-Model-20211220.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q1/Q1-V2-Full-Model-20211220.stp |
+| `Stabilizer-2.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q1/Stabilizer-2.25u.stp |
+| `Stabilizer-6.25u.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/Q-Series/Q1/Stabilizer-6.25u.stp |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |

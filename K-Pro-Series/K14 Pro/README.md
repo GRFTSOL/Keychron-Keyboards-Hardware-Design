@@ -29,6 +29,20 @@
 | `us-full-model` | Complete assembled model (case + plate + keycaps, ANSI) |
 | `stabilizer` | Stabilizer housing and wire specifications |
 
+
+## Downloads
+
+> **Download note:** If a download link does not respond, copy the link and paste it directly into your browser's address bar. All links below are hosted on Keychron's official server and are safe to use.
+
+| File | Download Link |
+|---|---|
+| `K14-Pro-US-Bottom-Case.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K14%20Pro/K14-Pro-US-Bottom-Case.stp |
+| `K14-Pro-US-Full-Model-20241206.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K14%20Pro/K14-Pro-US-Full-Model-20241206.stp |
+| `K14-Pro-US-OSA-Keycap.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K14%20Pro/K14-Pro-US-OSA-Keycap.stp |
+| `K14-Pro-US-Plate-File.dwg` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K14%20Pro/K14-Pro-US-Plate-File.dwg |
+| `K14-Pro-US-Plate-File.pdf` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K14%20Pro/K14-Pro-US-Plate-File.pdf |
+| `K14-Pro-US-Stabilizer.stp` | http://www.keychron.co:34568/keychron-github-assets/Keychron-Keyboards-Hardware-Design/K-Pro-Series/K14%20Pro/K14-Pro-US-Stabilizer.stp |
+
 ## Opening the Files
 
 | Format | Free Software | Commercial Software |
